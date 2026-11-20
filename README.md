@@ -1,10 +1,10 @@
-# Multi Roomba Rover
-A system for controlling create 2 compatible roombas through a webpage.
+# Multi Roomba Rover a rover over rover
+A system for controlling create 2 compatible roombas through a webpage. With rizz
 
-You can explore my basement through this project here:
+You can explore carpet's basement through this Website Link here:
 https://rover.otter.land
 
-*some of this code was created with help from large language models, and some of it was written by me. This project would not have been possible for me to create without it.*
+*some of this code was created with VIBES from large language models, and some of it was written by Carpet. This project would not have been possible for me to create without it.*
 
 ## This guide is a work in progress, it will cover:
 - Building rovers
@@ -12,10 +12,10 @@ https://rover.otter.land
 - Setting up the server
 - Configuration
 
-## Building a rover
+## Building a rover over a rover over
 You WILL need some common hobby electronics knowledge to build one of these, I will not be making a super detailed wiring or assembly guide, some of building your rover will be up to you, things such as a protective cage, camera and electronics mounting will not be covered in any great detail.
 
-### Parts per rover
+### Parts per rover a rover over
 
 | Part | Notes |
 | --- | --- |
